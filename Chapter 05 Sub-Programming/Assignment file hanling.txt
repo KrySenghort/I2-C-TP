@@ -1,0 +1,27 @@
++++++++++++++++   HW8    +++++++++++++++++++++++++++++++++++
+
+Problem-1 Random a number n in betweeen 3 to 6. Create a function to get information of n students. Each student has national id, name and phone number. 
+Store all input data into a file named output-p1.txt. 
+Remark: When store data into file, one student's info is stored in one line and data of that student is separated by a space.
+void getNstoreDataToFile();
+-----
+123 John 012121912
+124 Dara 011151912
+
+Problem-2 Write a function to get data from file output-p1.txt (data created by problem #1). The data is stored in arrays. 
+The program display all data from array on screen. Then ask a user to input one more data of student (id, name, phone number). 
+Finally, store all data from arrays to file output-p3.txt using mode "w".
+void getDataAndProcess();
+-----
+
+Problem-3 Write a function to create 1000 files naming data1.txt to data1000.txt in a folder located in D:/dataYourname
+(make sure to create a folder dataYournamee in drive D first or you can create a folder when the program run). Each file has 50 numbers in it. 
+The file data1.txt has numbers from 1 to 50 in it, the file data2.txt has numbers from 51 to 100, the file data3.txt has numbers from 101 to 150 and so on so forth for the other files.
+void generateDummyData();
+----
+
+Problem-4
+-----
+Write a function in C language to encrypt the data. 
+a) function1: Ask a user for data which is a string. Store the data into a binary file named encryptData.bin (using mode "wb"). 
+b) function2: Read data from file encryptData.bin and display on screen.

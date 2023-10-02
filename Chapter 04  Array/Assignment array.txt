@@ -1,0 +1,50 @@
+Welcome to my mini Project in array: 
+1. Program 1 
+2. Program 2 
+3. Program 3
+==========================>
+select your choice: 
+===> if you are selected 1 the program will go directly to program 1
+===> if you are selected 2 the program will go directly to program 2 
+===> if you are selected 3 the program will go directly to program 3
+===> in case,you are selected beside 1,2 and 3, the program will display invalide choise amd as you to continue or not ( do you want to continue?(Y/N)) if you slecte Y program will 
+continue, but if you chose N program will terminate. 
+
+
++++++++++++++++++++++++++++++   Here's the program 1, 2 and 3    +++++++++++++++++++++++++++++++ 
+
+
+
+Program1:  Write a program in C program to store data of 5 students. Each student has name, score, email and phone number. The program ask user for info of these 5 students.
+ Display all students' information on screen.
+----
+John	75	john@gamil.com	012433443
+
+--
+#STudent1
+John
+75
+john@gmailcom
+012
+
+#STudent2
+John
+75
+john@gmailcom
+012
+
+Program2:  Same as PROGRAM1. Find average score. The program display info of all students who got scores more than average.
+----
+Input data
+Find average score (5 students, sum/5)
+Display students who score>= average
+
+
+Program3:
+-----
+Write a program in C program store data of 6 employees. Each employee has name, gender, salary, and phone number. The program ask user for info of these 6 employees. 
+The program ...
+a) Display info of employee who got the highest salary.
+b) Display info of employee who got the lowest salary.
+c) Display info of all employees whose gender are males.
+d) Display info of all employees who have salary more than the average.

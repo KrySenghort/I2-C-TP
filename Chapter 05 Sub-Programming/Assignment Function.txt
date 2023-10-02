@@ -1,0 +1,38 @@
+write a project to illustate as the following: 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Welcome to my projec: 
++++++++++++++++++++++++Function+++++++++++++++++++++++++
+1. Function 1
+2. Function 2 
+3. Function 3 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+select your choise: .....
+
+
+in case you select 1: 
+welcome to program 1: 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++Write a function that produces a table of the numbers from 1 to 10, their squares,  +
++and their cubes.                                                                    +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+in case you select 2: 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++Write and test a C function named makeMilesKmTable() to display a table                     +
++of miles converted to kilometers. The arguments to the function should be the starting and  +
++stopping values of miles and the increment. The output should be a table of miles and their +
++equivalent kilometer values. Use the relationship that 1 mile = 1.61 kilometers.            +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+
+in case you select 3:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
++Write a C function program to read n numbers in an array and split  +
++the array into two arrays even and odd such that the array even     +
++contains all the even numbers and other is odd. So the output will  +
++be                                                            	     +
++(e.g. Original array is 7,9,4,6,5,3,2,10,18                         +
++ Odd array is 7,9,5,3                                               +
++ Even array is 4,6,2,10,18 )                                        +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

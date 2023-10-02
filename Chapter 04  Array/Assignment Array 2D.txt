@@ -1,0 +1,27 @@
+welcome to 2D array homework:
+Program 1.Consider you have the following progragram: 
+#include<stdio.h>
+int main()
+{
+    int i, j, val[3][4] = {8,16,9,52,3,15,27,6,14,25,2,10};
+    for (i = 0; i < 3; i++)
+        for (j = 0; j < 4; j++)
+            printf("%d    ", val[i][j] );
+    return 0;
+}
+
+
+Program 2.  Write a program that adds the values of all elements inthe val array used in Program 1 and displays the total.
+
+
+Program 3.  Modify the program written for Program 2 to display the total of each row separately.
+
+
+program 4.  Write a C program that adds equivalent elements of the twodimensional
+arrays named first and second. Both arrays should have two rows and three columns.
+
+For example, element [1][2] of the resulting array should be the sum of first[1][2]
+and second[1][2]. The first and second arrays should be initialized as follows:
+    first             second
+16   18   23        24   52   77
+54   91   11        16   19   59

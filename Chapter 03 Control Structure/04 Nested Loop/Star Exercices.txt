@@ -1,0 +1,355 @@
+//** List of star pattern programming exercises
+
+
+*****
+*****
+*****
+*****
+*****
+Square Star Pattern
+
+
+
+*****
+*   *
+*   *
+*   *
+*****
+Hollow Square Star Pattern
+
+
+
+
+*****
+** **
+* * *
+** **
+*****
+Hollow Square Star Pattern with Diagonal
+
+
+
+ 
+    *****
+   *****
+  *****
+ *****
+*****
+Rhombus Star Pattern
+
+
+
+
+
+    *****
+   *   *
+  *   *
+ *   *
+*****
+Hollow Rhombus Star Pattern
+
+
+
+
+*****
+ *****
+  *****
+   *****
+    *****
+Mirrored Rhombus Star Pattern
+
+
+
+
+*****
+ *   *
+  *   *
+   *   *
+    *****
+Hollow Mirrored Rhombus Star Pattern
+
+
+
+
+
+*
+**
+***
+****
+*****
+Right Triangle Star Pattern
+
+
+
+
+
+*
+**
+* *
+*  *
+*****
+Hollow Right Triangle Star Pattern
+
+
+
+    *
+   **
+  ***
+ ****
+*****
+Mirrored Right Triangle Star Pattern
+
+
+
+
+    *
+   **
+  * *
+ *  *
+*****
+Hollow Mirrored Right Triangle Star Pattern
+
+
+ 
+*****
+****
+***
+**
+*
+Inverted Right Triangle Star Pattern
+
+
+
+
+*****
+*  *
+* *
+**
+*
+Hollow Inverted Right Triangle Star Pattern
+
+
+
+
+*****
+ ****
+  ***
+   **
+    *
+Inverted Mirrored Right Triangle Star Pattern
+
+
+
+
+*****
+ *  *
+  * *
+   **
+    *
+Hollow Inverted Mirrored Right Triangle Star Pattern
+
+
+ 
+
+    *
+   ***
+  *****
+ *******
+*********
+Pyramid Star Pattern
+
+
+
+    *
+   * *
+  *   *
+ *     *
+*********
+Hollow Pyramid Star Pattern
+
+
+
+*********
+ *******
+  *****
+   ***
+    *
+Inverted Pyramid Star Pattern
+
+
+
+
+*********
+ *     *
+  *   *
+   * *
+    *
+Hollow Inverted Pyramid Star Pattern
+
+
+
+
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+Half Diamond Star Pattern
+
+
+
+
+    *
+   **
+  ***
+ ****
+*****
+ ****
+  ***
+   **
+    *
+Mirrored Half Diamond Star Pattern
+
+
+
+
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+Diamond Star Pattern
+
+
+
+
+
+**********
+****  ****
+***    ***
+**      **
+*        *
+*        *
+**      **
+***    ***
+****  ****
+**********
+Hollow Diamond Star Pattern
+
+
+
+
+
+*****
+  ****
+    ***
+      **
+        *
+      **
+    ***
+  ****
+*****
+Right Arrow Star Pattern
+
+
+
+
+
+    *****
+   ****
+  ***
+ **
+*
+ **
+  ***
+   ****
+    *****
+Left Arrow Star Pattern
+
+
+
+
+    +
+    +
+    +
+    +
++++++++++
+    +
+    +
+    +
+    +
+Plus Star Pattern
+
+
+
+
+
+*       *
+ *     *
+  *   *
+   * *
+    *
+   * *
+  *   *
+ *     *
+*       *
+X Star Pattern
+
+
+
+
+ ***
+*   *
+*   *
+*   *
+ ***
+*   *
+*   *
+*   *
+ ***
+Eight Star Pattern
+
+
+
+ 
+  *****     *****
+ *******   *******
+********* *********
+*******************
+ *****************
+  ***************
+   *************
+    ***********
+     *********
+      *******
+       *****
+        ***
+         *
+Heart Star Pattern
+
+
+
+
+
+  *****     *****
+ *******   *******
+********* *********
+*****Codeforwin****
+ *****************
+  ***************
+   *************
+    ***********
+     *********
+      *******
+       *****
+        ***
+         *
+Heart Star Pattern with Name
